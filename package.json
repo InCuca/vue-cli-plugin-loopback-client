@@ -4,7 +4,8 @@
   "description": "A Vue client template ready to work with any Loopback backend. Featuring Babel, Webpack and Jest for unit tests.",
   "main": "index.js",
   "scripts": {
-    "test": "jest "
+    "test": "jest",
+    "lint": "eslint ."
   },
   "repository": {
     "type": "git",
@@ -25,6 +26,7 @@
   },
   "homepage": "https://github.com/InCuca/vue-loopback-client#readme",
   "devDependencies": {
+    "eslint": "^5.5.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-jest": "^21.22.0",
