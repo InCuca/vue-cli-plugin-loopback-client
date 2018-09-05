@@ -1,0 +1,14 @@
+eslint:
+  enabled: true
+  config:
+    extensions:
+    - .vue
+    - .js
+exclude_patterns:
+- "**/*.spec.js"
+- "**/__tests__/"
+- "**/__mocks__/"
+- "**/__snapshots__/"
+- "**/node_modules/"
+- ".vscode/"
+- "coverage/"

@@ -1,0 +1,5 @@
+{
+  "restApiHost": "localhost",
+  "restApiRoot": "/api",
+  "port": "3000"
+}
