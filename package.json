@@ -4,7 +4,7 @@
   "description": "A Vue client template ready to work with any Loopback backend. Featuring Babel, Webpack and Jest for unit tests.",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
+    "test": "jest && node e2e.js",
     "lint": "eslint ."
   },
   "repository": {
