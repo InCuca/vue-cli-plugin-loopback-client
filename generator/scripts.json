@@ -1,0 +1,5 @@
+{
+  "test": "npx jest",
+  "lint": "eslint --ext .js,.vue src test",
+  "release": "release-it"
+}

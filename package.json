@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/InCuca/vue-loopback-client#readme",
   "devDependencies": {
+    "@vue/cli": "^3.0.1",
     "eslint": "^5.5.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-import": "^2.14.0",
