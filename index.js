@@ -1,3 +1,5 @@
-module.exports = function(api) {
+function service() {
 
 }
+
+module.exports = service;
