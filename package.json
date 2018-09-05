@@ -1,5 +1,5 @@
 {
-  "name": "vue-loopback-client",
+  "name": "vue-cli-plugin-loopback-client",
   "version": "1.0.0",
   "description": "A Vue client template ready to work with any Loopback backend. Featuring Babel, Webpack and Jest for unit tests.",
   "main": "index.js",
