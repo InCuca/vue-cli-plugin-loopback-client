@@ -1,5 +1,1 @@
-function service() {
-
-}
-
-module.exports = service;
+module.exports = require('./service');

@@ -4,7 +4,7 @@ const GeneratorAPI = require('@vue/cli/lib/GeneratorAPI');
 const scripts = require('./scripts');
 const dependencies = require('./dependencies');
 const devDependencies = require('./devDependencies');
-const generate = require('./generator');
+const generate = require('.');
 
 describe('generator', () => {
   let id = 1;
@@ -28,5 +28,10 @@ describe('generator', () => {
       dependencies: expect.objectContaining(dependencies),
       devDependencies: expect.objectContaining(devDependencies),
     });
+  });
+
+  it('render template directory', () => {
+    generate(api);
+    expect(api.generator.fileMiddlewares).toHaveLength(1);
   });
 });
