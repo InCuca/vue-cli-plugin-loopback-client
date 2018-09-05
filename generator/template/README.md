@@ -1,4 +1,4 @@
-# vue-loopback-client
+# vue-cli-plugin-loopback-client
 [![Travis](https://img.shields.io/travis/InCuca/vue-loopback-client/master.svg)](https://travis-ci.org/InCuca/vue-loopback-client/branches)
 
 A Vue client template ready to work with any Loopback backend. Featuring Babel, Webpack and Jest for unit tests.
