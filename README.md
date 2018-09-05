@@ -20,7 +20,7 @@ yarn global add @vue/cli
 
 vue create my-project --preset default
 cd my-project
-vue add vue-cli-plugin-loopback-client
+vue add loopback-client
 ```
 
 ## Folder structure
