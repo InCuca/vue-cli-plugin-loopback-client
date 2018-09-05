@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/InCuca/vue-loopback-client/issues"
   },
-  "homepage": "https://github.com/InCuca/vue-loopback-client#readme"
+  "homepage": "https://github.com/InCuca/vue-loopback-client#readme",
+  "devDependencies": {
+    "jest": "^23.5.0"
+  }
 }
