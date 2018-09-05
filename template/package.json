@@ -1,9 +1,8 @@
 {
   "name": "vue-loopback-client",
   "version": "1.0.0",
-  "description": "Plataforma de interação social",
+  "description": "vue-loopback-client",
   "author": "InCuca <contato@incuca.com.br>",
-  "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
@@ -91,10 +90,6 @@
   "engines": {
     "node": ">= 6.0.0",
     "npm": ">= 3.0.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@gitlab.com:incuca/internos/vue-loopback-client.git"
   },
   "license": "UNLICENSED"
 }
