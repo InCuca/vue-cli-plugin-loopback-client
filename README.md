@@ -18,7 +18,7 @@ npm install -g @vue/cli
 # OR
 yarn global add @vue/cli
 
-vue create my-project
+vue create my-project --preset default
 cd my-project
 vue add vue-loopback-client
 ```
