@@ -1,0 +1,27 @@
+{
+  "name": "vue-loopback-client",
+  "version": "1.0.0",
+  "description": "A Vue client template ready to work with any Loopback backend. Featuring Babel, Webpack and Jest for unit tests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InCuca/vue-loopback-client.git"
+  },
+  "keywords": [
+    "vuejs",
+    "vue",
+    "template",
+    "vue-template",
+    "loopback",
+    "webpack"
+  ],
+  "author": "InCuca <contato@incuca.com.br>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/InCuca/vue-loopback-client/issues"
+  },
+  "homepage": "https://github.com/InCuca/vue-loopback-client#readme"
+}
