@@ -3,7 +3,7 @@
 
 A Vue client template ready to work with any Loopback backend. Featuring Babel, Webpack and Jest for unit tests.
 
-If you are looking for the client and server template, [checkout vue-loopback template](https://github.com/InCuca/vue-loopback).
+If you are looking for the client and server template, check the [vue-loopback template](https://github.com/InCuca/vue-loopback).
 
 ## Features
 
@@ -26,8 +26,8 @@ vue add vue-loopback-client
 ## Folder structure
 
 1. `build`: vue-cli generated build files
-2. `config`: vue-cli generated config plus dev [API endpoint Settings](#API-endpoint-Settings)
-3. `src`: source code plus [API endpoint Settings](#API-endpoint-Settings)
+2. `config`: vue-cli generated config plus dev [API endpoint Settings](#api-endpoint-settings)
+3. `src`: source code plus [API endpoint Settings](#api-endpoint-settings)
 6. `test`: optional directory for test helpers/utilities
 
 ## Build Setup
